@@ -7,7 +7,7 @@
 💻 **Primary Focus**: Psychographic Analysis, NLP, and Customer Experience (CX) Review Analysis  
 👯 **Looking to Collaborate On**: NLP tasks, CX analysis, or AI-driven automation  
 🌱 **Currently Learning**: Deep Learning and Advanced Data Science  
-⚡ **Fun Fact**: I use machine learning models to decode customer emotions like Sherlock Holmes!  
+⚡ **Fun Fact**: I use machine learning models to decode customer emotions.  
 
 ---
 
